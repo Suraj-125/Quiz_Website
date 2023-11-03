@@ -1,0 +1,54 @@
+
+[
+    {
+        "question":"What is the capital of france ?",
+        "options":["New York","London","Paris","Dublin"],
+        "correctAnswer":"Paris"
+    },
+    {
+        "question":"Who painted the Mona Lisa ?",
+        "options":["Vincent Van Gough","Pablo Picasso","Leonardo da Vinci","Claude Monel"],
+        "correctAnswer":"Leonardo da Vinci"
+    },
+    {
+        "question":"Who is the father of India ?",
+        "options":["Mahatma Gandhi","Sardar Vallabh Bhai Patel","BR Ambedkar","Lal Bahadur Sastri"],
+        "correctAnswer":"Mahatma Gandhi"
+    },
+    {
+        "question":"Who wrote Ramayana ?",
+        "options":["Veda Vyas","Tulsidas","Mahrishi Valmiki","Sankaracharya"],
+        "correctAnswer":"Mahrishi Valmiki"
+    },
+    {
+        "question":"Who burnt the Nalanda University ?",
+        "options":["Gauri","Khilji","Humayun","Akbar"],
+        "correctAnswer":"Khilji"
+    },
+    {
+        "question":"If a=16, then what is the value of ++a--a ?",
+        "options":["16","17","15","18"],
+        "correctAnswer":"16"
+    },
+    {
+        "question":"Calculate 2**2/2 ?",
+        "options":["2","4","8","16"],
+        "correctAnswer":"2"
+    },
+    {
+        "question":"Which is the largest country in the world ?",
+        "options":["America","China","India","Russia"],
+        "correctAnswer":"Russia"
+    },
+    {
+        "question":"Who finishes off in style in 2011 world cup final ?",
+        "options":["Gautam Gambhir","Sachin Tendulkar","MS Dhoni","Yuvraj Singh"],
+        "correctAnswer":"MS Dhoni"
+    },
+    {
+        "question":"Which cricketer is considered as the man of the series in 2007 t20 world cup ?",
+        "options":["Gautam Gambhir","Irfan Pathan","Yuvraj Singh","Sahid Afridi"],
+        "correctAnswer":"Yuvraj Singh"
+    }
+]
+    
